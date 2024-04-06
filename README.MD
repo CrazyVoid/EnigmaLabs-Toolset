@@ -1,6 +1,7 @@
 # Enigmalabs UFO/UAP Database Tools
 
 Author Crazyvoid - Randall Perkins 02/01/2024
+https://twitter.com/CrazyVoidPS4
 
 This repository contains a set of tools designed to facilitate the extraction, processing, and visualization of UFO/UAP sighting data from the Enigmalabs database. The tools are aimed at researchers and enthusiasts interested in exploring and analyzing this intriguing phenomenon.
 
