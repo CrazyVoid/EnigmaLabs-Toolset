@@ -3,7 +3,7 @@ import sys, os, argparse, time
 import pandas as pd
 import matplotlib.pyplot as plt
 
-def plot_shape_counts(csv_file):
+def plot_shape_counts(csv_file, output_chart_image):
     # Read the CSV file into a DataFrame
     df = pd.read_csv(csv_file)
     
@@ -18,7 +18,10 @@ def plot_shape_counts(csv_file):
     plt.ylabel('Count')
     plt.xticks(rotation=45, ha='right')
     plt.tight_layout()
-    plt.show()
+    
+    # Save the chart image
+    plt.savefig(output_chart_image)
+    plt.close()
 
 
 if __name__ == "__main__":
@@ -31,7 +34,7 @@ if __name__ == "__main__":
     input_csv_file = sys.argv[1]
     output_chart_image = sys.argv[2]
 
-    plot_shape_counts(input_csv_file)
+    plot_shape_counts(input_csv_file, output_chart_image)
 
     # Calc the time it took for the script to run
     end_script_time = time.time()

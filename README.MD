@@ -44,6 +44,7 @@ The `elChart_OverallUniqueCraftShapes.py` script generates a chart illustrating 
 
 ### elChart_USAHeatMap.py
 The `elChart_USAHeatMap.py` script creates a heatmap visualizing UFO/UAP sightings across the United States. It offers various customization options for tailoring the heatmap to specific needs.
+some features of this script might be imcomplete or not function as expected
 
 **Usage:** `python elChart_USAHeatMap.py <csv_file> --output_png <output_png>`
 
@@ -58,3 +59,7 @@ The `elChart_USAHeatMap.py` script creates a heatmap visualizing UFO/UAP sightin
 - `--outline_color`: Optional color for geographical outlines on the heatmap.
 
 These tools provide a comprehensive toolkit for extracting, processing, and visualizing UFO/UAP sighting data from the Enigmalabs database. Whether you're a researcher, enthusiast, or data analyst, these tools offer valuable insights into this intriguing phenomenon.
+
+![Unique Shapes](data/output.png)
+
+![USA Heat Map](data/heatmap_on_us_map.png)
