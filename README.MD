@@ -6,7 +6,7 @@ https://twitter.com/CrazyVoidPS4
 
 This repository contains a set of tools designed to facilitate the extraction, processing, and visualization of UFO/UAP sighting data from the Enigmalabs database. The tools are aimed at researchers and enthusiasts interested in exploring and analyzing this intriguing phenomenon.
 
-### Warning some of these scripts are msssy and incomplete. So please understand going forward. and feel free to contribute!
+### Warning some of these scripts are messy and incomplete. So please understand going forward. and feel free to contribute!
 
 ## Tool Overview
 
