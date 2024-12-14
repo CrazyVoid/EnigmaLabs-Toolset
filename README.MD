@@ -1,6 +1,6 @@
 # Enigmalabs UFO/UAP Database Tools
 
-Author Crazyvoid - Randall Perkins 02/01/2024
+Author Crazyvoid 02/01/2024
 
 https://twitter.com/CrazyVoidPS4
 
